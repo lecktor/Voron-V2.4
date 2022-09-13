@@ -1,7 +1,7 @@
 # Voron-V2.4R2 Kit by Lecktor
 
 Lecktor.com sells full solution kit. To get a better understanding, please
-take a look at our [manuals](./Manuals/Readme.md). For whats included in kit and why, take a look at mods like [NeverMore](./NeverMore/Readme.md), [EuclidProbe](./EuclidProbe/Readme.md), [Backers](./Backers/Readme.md) and other folders for more information. 
+take a look at our [manuals](./Manuals/Readme.md). For whats included in kit and why, take a look at mods like [NeverMore](./NeverMore/Readme.md), [EuclidProbe](./EuclidProbe/Readme.md), [Titanium Backers](./Backers/Readme.md) and other folders for more information. 
 
 # Full BOM of kit
 ## Frame kit
@@ -10,6 +10,7 @@ take a look at our [manuals](./Manuals/Readme.md). For whats included in kit and
 ## Motor kit
 - LDO Motors LDO-42STH48-2004AC (Z motor) - 4pcs
 - LDO Motors LDO-42STH48-2004MAH (AB motor) - 2pcs
+- LDO Motors LDO-36STH20-1004AHG (E motor) - 1pcs
 
 ## Linear rail kit
 ### Voron V2.4 250x250
@@ -118,9 +119,8 @@ take a look at our [manuals](./Manuals/Readme.md). For whats included in kit and
 - Bondtech shaft assembly - 1pcs
 - Bondtech thumbscrew assembly - 1pcs
 - RainDew ball bearing MR85ZZ - 2pcs
-- LDO Motors pancake motor (LDO-36STH20-1004AHG) - 1pcs
 - GDSTime axial fan (4010; 24V) - 1pcs
-- Lecktor blower fan (5015; 24V) - 1pcs
+- Delta Electronics blower fan (5015; 24V) - 1pcs
 - Lecktor toolhead front (Dragon/CW2/Nylon/MJF; black) - 1pcs
 - Lecktor toolhead rear (Dragon/CW2/Nylon/MJF; black) - 1pcs
 
@@ -150,6 +150,8 @@ take a look at our [manuals](./Manuals/Readme.md). For whats included in kit and
 - FIX&FASTEN cable tie (Polyamide; 2.5x150mm; black) - 100pcs
 - Misumi HNTAJ5-3 nut - 10pcs
 - Misumi HNTAJ5-5 nut - 10pcs
+- Cable duct for rails - 4pcs
+- Cable sleeves for bottom - 3pcs
 
 ## LED mounts
 - BTF-Lightning SK6812 led strip (250-350mm) - 3pcs
@@ -178,8 +180,8 @@ take a look at our [manuals](./Manuals/Readme.md). For whats included in kit and
 
 ## Euclid probe assembly
 - Lecktor Euclid PCB assembly - 1pcs
-- Lecktor Euclid wire harness (Heluflon; JST) - 1pcs
-- Lecktor Euclid plastic parts (ABS GF; black) - 1pcs
+~~- Lecktor Euclid wire harness (Heluflon; JST) - 1pcs~~
+~~- Lecktor Euclid plastic parts (ABS GF; black) - 1pcs~~
 
 ## Voron V2.4R2 plastic parts
 - Main functional parts (eSun ABS+; black) - 1pcs
