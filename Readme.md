@@ -1,7 +1,7 @@
 # Voron-V2.4R2 Kit by Lecktor
 
 Lecktor.com sells full solution kit. To get a better understanding, please
-take a look at our [manuals](./Manuals/Readme.md). For whats included in kit and why, take a look at mods like [NeverMore](./NeverMore/Readme.md), [EuclidProbe](./EuclidProbe/Readme.md), [Titanium Backers](./Backers/Readme.md), [Door Hingers](./Door_Hinges/Readme.md), [Microswitch Endstop](./Microswitch_Endstop/Readme.md) and other folders for more information. 
+take a look at our [manuals](./Manuals/Readme.md). For whats included in kit and why, take a look at mods like [NeverMore](./NeverMore/Readme.md), [EuclidProbe](./EuclidProbe/Readme.md), [Titanium Backers](./Backers/Readme.md) and other folders for more information. 
 
 # Full BOM of kit
 ## Frame kit
