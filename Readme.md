@@ -1,4 +1,4 @@
-# Voron-V2.4R2 Kit by Lecktor
+# Voron V2.4R2 Kit by Lecktor
 
 Lecktor.com sells full solution kit. To get a better understanding, please
 take a look at our [manuals](./Manuals/Readme.md). For whats included in kit and why, take a look at mods like [NeverMore](./NeverMore/Readme.md), [EuclidProbe](./EuclidProbe/Readme.md), [Titanium Backers](./Backers/Readme.md), [Microswitch Endstop](./Microswitch_Endstop/Readme.md), [Door Hinges](./Door_Hinges/Readme.md) and other folders for more information. 
@@ -188,3 +188,5 @@ take a look at our [manuals](./Manuals/Readme.md). For whats included in kit and
 - Accent functional parts (eSun ABS+; red/gold) - 1pcs
 - Skirts (eSun ABS+; black/red/gold) - 1pcs
 - All threaded inserts are installed
+
+###### Tags: V2.4, 2.4, V2.4R2, V2.4 R2
