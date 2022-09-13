@@ -90,5 +90,5 @@ You will need to write that serial down and use it in printer.cfg as this is you
 ### Back: [Manuals](../Readme.md)
 
 # Sources:
-[Voron Design Wiki](https://docs.vorondesign.com/build/software/spider_klipper.html)
+[Voron Design Wiki](https://docs.vorondesign.com/build/software/spider_klipper.html)  
 [Fysetc Spider Wiki](https://wiki.fysetc.com/Spider/)

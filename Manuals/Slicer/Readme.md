@@ -8,6 +8,9 @@
 ## Where to set the model and textures:
 ![Examples](SS_Settings.png) 
 
+---
+### Back: [Manuals](../Readme.md)
+
 # Sources:
-[Voron Extras Github](https://github.com/VoronDesign/Voron-Extras)
+[Voron Extras Github](https://github.com/VoronDesign/Voron-Extras)  
 [Voron 2 Github](https://github.com/VoronDesign/Voron-2)

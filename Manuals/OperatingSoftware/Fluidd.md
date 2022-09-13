@@ -37,5 +37,5 @@ As soon as you have Fluiddpi loaded, it is highly recommended that you make sure
 ### Back: [Manuals](../Readme.md)
 
 # Sources:
-[Voron Design Wiki Fluidd](https://docs.vorondesign.com/build/software/installing_fluidd.html)
-https://docs.fluidd.xyz/
+[Voron Design Wiki Fluidd](https://docs.vorondesign.com/build/software/installing_fluidd.html)  
+[Fluidd](https://docs.fluidd.xyz/)

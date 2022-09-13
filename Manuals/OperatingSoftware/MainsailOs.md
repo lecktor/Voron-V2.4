@@ -39,5 +39,5 @@ The Mainsail manual installation process is documented in [the Mainsail docs](ht
 ### Back: [Manuals](../Readme.md)
 
 # Sources:
-[Voron Design Wiki Mainsail](https://docs.vorondesign.com/build/software/installing_mainsail.html#MainsailOS)
-https://docs.mainsail.xyz/
+[Voron Design Wiki Mainsail](https://docs.vorondesign.com/build/software/installing_mainsail.html#MainsailOS)  
+[Mainsail](https://docs.mainsail.xyz/)
