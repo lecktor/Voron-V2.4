@@ -8,6 +8,7 @@ The firmware installation process for the Fysetc Spider MCU
 - Take two blue jumpers out of the Fysetc Spider box
 - You should have physical access to the MCU
 - Voron Design recommends using USB to control the Spider, which simply requires connecting a USB-A to USB-C cable between the Spider and Pi. If you prefer a UART connection, please consult the fysetc documentation for the necessary configuration adjustments.
+- For DFU mode and flashing, please remove the display cables from Spider board. You should mark the cables with 1 and 2 to help with reconnection at later stage.
 
 
 # 1. Enter DFU Mode
@@ -15,9 +16,9 @@ The firmware installation process for the Fysetc Spider MCU
 1.  First power off the board
 
 2. Set jumper on 5v pin and DC5V 
-![](Images\5vJumper.png)
+![5V Jumper](Images/5vJumper.png)
 3. Place jumper on BT0 to 3.3V pin 
-![](Images\boot.png)
+![DFU Jumper](Images/boot.png)
 4. Connect USB cable to the board and RPI
 
 5. Power up the board with 24v
@@ -45,7 +46,7 @@ The firmware installation process for the Fysetc Spider MCU
     - If your Spider was made prior to 2021/06/23, set the Bootloader offset to 64KiB bootloader
     - Set the Clock Reference to 12 MHz crystal
     - Set the Communication interface to USB (on PA11/PA12) (note: see Fysetc documentation if you intend to use UART rather than USB)
-![](Images\spider_klipper_menuconfig.png)
+![Spider Klipper Menu Config](Images/spider_klipper_menuconfig.png)
 
 - Once the configuration is selected, press ```q``` to exit, and ```“Yes”``` when asked to save the configuration.
 
@@ -79,11 +80,15 @@ The firmware installation process for the Fysetc Spider MCU
     ls /dev/serial/by-id
     ```
 If the flash was successful, this should now show a klipper device, similar to:
-![](Images\stm32f446_id.png)
+![Serial of Device](Images/stm32f446_id.png)
 
+You will need to write that serial down and use it in printer.cfg as this is your device specific ID! You should power down the printer and connect display cables to Spyder now.
 
+### Next: [Klipper configuration](../MCU_Firmware/Readme.md)
 
+---
+### Back: [Manuals](../Readme.md)
 
 # Sources:
-https://docs.vorondesign.com/build/software/spider_klipper.html
-https://wiki.fysetc.com/Spider/
+[Voron Design Wiki](https://docs.vorondesign.com/build/software/spider_klipper.html)
+[Fysetc Spider Wiki](https://wiki.fysetc.com/Spider/)
