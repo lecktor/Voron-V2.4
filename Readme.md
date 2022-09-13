@@ -180,8 +180,8 @@ take a look at our [manuals](./Manuals/Readme.md). For whats included in kit and
 
 ## Euclid probe assembly
 - Lecktor Euclid PCB assembly - 1pcs  
-~~ Lecktor Euclid wire harness (Heluflon; JST) - 1pcs~~  
-~~ Lecktor Euclid plastic parts (ABS GF; black) - 1pcs~~  
+~~Lecktor Euclid wire harness (Heluflon; JST) - 1pcs~~  
+~~Lecktor Euclid plastic parts (ABS GF; black) - 1pcs~~  
   
 ## Voron V2.4R2 plastic parts
 - Main functional parts (eSun ABS+; black) - 1pcs
