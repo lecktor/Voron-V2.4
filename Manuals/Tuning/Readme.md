@@ -29,11 +29,11 @@
       9. The nozzle bed offset is done for now.
 7.  Tighten ***all*** the screws while cabin is still hot.
 
-Thats it for tuning. You should be now ready for your first print. If you had any issues along the way, you can take a look at [very detailed tuning guide](https://github.com/AndrewEllis93/Print-Tuning-Guide) by AndrewEllis93. 
-
-Don't have an idea what to print? Try printing a [cube](https://www.thingiverse.com/thing:5429894) and filming it for [serial request](https://www.reddit.com/r/voroncorexy/). Please read about the process in [this serial request information questions reddit thread](https://www.reddit.com/r/voroncorexy/comments/r4ggml/serial_request_information_questions/).
+Thats it for tuning. You should be now ready for your first print. If you had any issues along the way, you can take a look at [very detailed tuning guide](https://github.com/AndrewEllis93/Print-Tuning-Guide) by AndrewEllis93. You can also find some helpful tuning print files [here](../Test_Prints/).
 
 > **PS:** For configuring MainsailOS from SSH, enter **SUDO raspi-config**. From there you can join your device to WiFi should you choose to do so and change local network domain name.
+
+Don't have an idea what to print? Try printing a [cube](https://www.thingiverse.com/thing:5429894) and filming it for [serial request](https://www.reddit.com/r/voroncorexy/). Please read about the process in [this serial request information questions reddit thread](https://www.reddit.com/r/voroncorexy/comments/r4ggml/serial_request_information_questions/).
 
 ---
 ### Back: [Manuals](../Readme.md)
