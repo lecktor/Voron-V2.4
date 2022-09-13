@@ -84,7 +84,7 @@ If the flash was successful, this should now show a klipper device, similar to:
 
 You will need to write that serial down and use it in printer.cfg as this is your device specific ID! You should power down the printer and connect display cables to Spyder now.
 
-### Next: [Klipper configuration](../MCU_Firmware/Readme.md)
+### Next: [Klipper configuration](../Klipper/Readme.md)
 
 ---
 ### Back: [Manuals](../Readme.md)
