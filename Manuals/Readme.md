@@ -1,4 +1,4 @@
-## INSTRUCTIONS
+## Manual for V2.4R2 kit by Lecktor
 
 First up, assembly. We have produced modified Manual that should make assembly easy. Please read the manual through the first time before starting your assembly as it will make understanding the relations between objects much more easier. All heat inserts are done so those steps are for you to just verify that all of them are inserted. Should there be any missing, you have tooltip and inserts to add finishing touches.
 
@@ -14,3 +14,6 @@ You should keep always your devices behind VPN for additional security. That bei
 * [Tuning the printer](./Tuning/Readme.md)
 
 If you want to see how assembly of a Voron would look like, step-by-step, there is a great fella on YouTube named [Scott Corn](https://www.youtube.com/watch?v=aHWiCs52pK4&list=PLSdS8RXoNhoRzDMZr9bK9-mfZjJzyWP8E) who has made a series from assembly of Voron V2.4. Your kit is V2.4R2 with some extra goodies so gatry and toolhead will be different for you. 
+
+---
+### Back: [Voron V2.4R2 kit by Lecktor](../Readme.md)

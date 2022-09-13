@@ -1,5 +1,9 @@
-# Voron-V2.4
+# Voron-V2.4R2 Kit by Lecktor
 
+Lecktor.com sells full solution kit. To get a better understanding, please
+take a look at our [manuals](./Manuals/Readme.md). For whats included in kit and why, take a look at mods like [NeverMore](./NeverMore/README.md), [EuclidProbe](./EuclidProbe/README.md), [Backers](./Backers/README.md) and other folders for more information. 
+
+#Full BOM of kit
 ## Frame kit
 - LDO Motors frame kit (black) - 1pcs
 
