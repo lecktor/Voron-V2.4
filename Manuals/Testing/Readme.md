@@ -55,3 +55,4 @@
 
 # Sources:
 [YouTube: Voron 2.4 Step By Step Part 12 Software, Configuration and Testing](https://youtu.be/yfRtpPPcnN8)
+[Voron Design Docs - Initial Startup](https://docs.vorondesign.com/build/startup/)

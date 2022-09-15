@@ -19,3 +19,4 @@ Import under Printer Settings > General > Bed Shape (Set ...) > Model (Load...)
 # Sources:
 [Voron Extras Github](https://github.com/VoronDesign/Voron-Extras)  
 [Voron 2 Github](https://github.com/VoronDesign/Voron-2)
+[Voron Design Docs - Slicer](https://docs.vorondesign.com/build/slicer/)
