@@ -3,8 +3,8 @@
 2. Turn on heater for extruder and set it to ***50C***. Wait for it to reach temp. Once temp is reached and it's not climbing past it, turn it off and wait for temp to go down.
 3. Turn on heater for bed and set it to ***50C***. Wait for it to reach temp. Once temp is reached and it's not climbing past it, turn it off and wait for temp to go down.
 4. Next up we want to test motors, for that run command:
-   1. **STEPPER_BUZZ STEPPER=stepper_x** <- this causes print head to move to right 1mm and then back 1mm ten times
-   2. **STEPPER_BUZZ STEPPER=stepper_y** <- this causes print head to move to left 1mm and then back 1mm ten times
+   1. **STEPPER_BUZZ STEPPER=stepper_x** <- this causes b motor to move
+   2. **STEPPER_BUZZ STEPPER=stepper_y** <- this causes a motor to move
    3. **STEPPER_BUZZ STEPPER=stepper_z** <- this is the front left corner
    4. **STEPPER_BUZZ STEPPER=stepper_z1** <- the back left corner
    5. **STEPPER_BUZZ STEPPER=stepper_z2** <- the back right corner
@@ -54,5 +54,5 @@
 ### Back: [Manuals](../Readme.md)
 
 # Sources:
-[YouTube: Voron 2.4 Step By Step Part 12 Software, Configuration and Testing](https://youtu.be/yfRtpPPcnN8)
+[YouTube: Voron 2.4 Step By Step Part 12 Software, Configuration and Testing](https://youtu.be/yfRtpPPcnN8)  
 [Voron Design Docs - Initial Startup](https://docs.vorondesign.com/build/startup/)

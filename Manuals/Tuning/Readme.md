@@ -39,6 +39,6 @@ Don't have an idea what to print? Try printing a [cube](https://www.thingiverse.
 ### Back: [Manuals](../Readme.md)
 
 # Sources:
-[Youtube: Voron 2.4 Step By Step Part 13 Tuning, SuperSlicer and First Print](https://youtu.be/1wBi1mXVVEQ)
-[Voron Design Docs - Initial Startup](https://docs.vorondesign.com/build/startup/)
-[Voron Design Docs - First Print](https://docs.vorondesign.com/build/slicer/first_print.html)
+[Youtube: Voron 2.4 Step By Step Part 13 Tuning, SuperSlicer and First Print](https://youtu.be/1wBi1mXVVEQ)  
+[Voron Design Docs - Initial Startup](https://docs.vorondesign.com/build/startup/)  
+[Voron Design Docs - First Print](https://docs.vorondesign.com/build/slicer/first_print.html)  
