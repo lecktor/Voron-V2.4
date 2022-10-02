@@ -28,6 +28,12 @@
       7. Run **ACCEPT** command
       8. Run **SAVE_CONFIG** command
       9. The nozzle bed offset is done for now.
+8.  Bed heightmap calibration
+    1.  Select from menu heightmap
+    2.  Press on calibrate button
+        1.  A good result of your work should be having variance of less than 0.3mm. 
+            1.  Things that can affect this: uneven bed magnet application, uneven surfaces of bed sheet, bed itself, uneven gantry or frame, to fast bed heating. The reason why we do this heightmap is to cancel out any imperfections via software. 
+    3.  Save with provided name "default" <- this way, it will be automatically picked up by config you imported earlier.
 
 Thats it for tuning. You should be now ready for your first print. If you had any issues along the way, you can take a look at [very detailed tuning guide](https://github.com/AndrewEllis93/Print-Tuning-Guide) by AndrewEllis93. You can also find some helpful tuning print files [here](../Test_Prints/).
 
