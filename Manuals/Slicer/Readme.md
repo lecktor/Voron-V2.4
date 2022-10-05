@@ -4,9 +4,9 @@
 2. If you are not using 350mm bed, adjust bed size.
 3. If you are using different nozzle, then adjust it's size.
 4. We recommend using [SuperSlicer](https://github.com/supermerill/SuperSlicer) for Voron Printers but you can also use [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer).
-5. Select Voron V2.4 Afterburner 0.4 nozzle as it closest default preset in slicer.
+5. Select Voron V2.4 Afterburner 0.4 nozzle as it closest default preset in slicer. This should be your starting point for trying to print.
 6. You can import PIF profiles in this folder, but please do read first on 
-[Ellis-PIF-Profile](https://github.com/AndrewEllis93/Ellis-PIF-Profile). These files are from him.
+[Ellis-PIF-Profile](https://github.com/AndrewEllis93/Ellis-PIF-Profile). These files are for printer that has resolved it's teething issues.
 
 ## Voron 2.4 Bed STL for PrusaSlicer and SuperSlicer
 Download the appropriate STL for your bed size
@@ -22,5 +22,5 @@ Import under Printer Settings > General > Bed Shape (Set ...) > Model (Load...)
 # Sources:
 [Voron Extras Github](https://github.com/VoronDesign/Voron-Extras)  
 [Voron 2 Github](https://github.com/VoronDesign/Voron-2)
-[Voron Design Docs - Slicer](https://docs.vorondesign.com/build/slicer/)
+[Voron Design Docs - Slicer](https://docs.vorondesign.com/build/slicer/)  
 [Ellis-PIF-Profile](https://github.com/AndrewEllis93/Ellis-PIF-Profile)
